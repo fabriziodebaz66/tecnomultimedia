@@ -1,3 +1,6 @@
+//Debaz Fabrizio
+//tp4 comision 1
+
 let x, y, px, py;
 let ang, dire; // ángulo de giro y dirección del disparo
 let vel; // velocidad del disparo
